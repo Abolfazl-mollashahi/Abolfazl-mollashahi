@@ -17,7 +17,7 @@ I am abolfazl, a frontend developer with experience in building beautiful and re
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" style="border-radius: 12px;">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="border-radius: 12px;">
   <img style="border-radius: 10px;" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js" style="border-radius: '12px'">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js" style="border-radius: 12px">
   <img src="https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vuex&logoColor=4FC08D" alt="Vuex" style="border-radius: 12px;">
   <img src="https://img.shields.io/badge/Pinia-FFD700?style=for-the-badge&logo=pinia&logoColor=4FC08D" alt="Pinia" style="border-radius: 12px;">
   <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt-dot-js&logoColor=white" alt="Nuxt.js" style="border-radius: 12px;">
